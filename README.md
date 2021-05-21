@@ -1,3 +1,3 @@
 # hello-world
-Examining Forest Integrity in Hawaii Using Forest Inventory and Analysis (FIA) Data
-Do you know/care "How Invaded are Hawai‘i’s Unique Forests?" Here is A Statewide Assessment by Conservation Status, Environmental Factors, and Vegetation Layer.
+Do you know/care "How Invaded are Hawai‘i’s Unique Forests?"
+If you want to know more about this topic, please read my first repository: A Statewide Assessment by Conservation Status, Environmental Factors, and Vegetation Layer.
